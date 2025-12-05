@@ -1,0 +1,58 @@
+.header{
+    font-weight: bold;
+    color: brown;
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+
+.head{
+    display: flex ;
+    height: 200px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 100px;
+}
+
+.paragrafo{
+    color: brown;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.linea{
+    margin-top: 0px;
+    border: solid brown;
+    }
+
+    .borse{
+        height: 300px;
+        width: 300px;
+        border-radius: 30px;
+    }
+
+#borsabordo{
+    box-shadow: 0px 0px 20px rgb(53, 11, 11);
+}
+#borsamarroncino
+{box-shadow: 0px 0px 40px rgb(158, 129, 91);}
+#perline{
+box-shadow: 0px 0px 40px rgb(233, 168, 142);
+}
+#grigia{
+box-shadow: 0px 0px 40px black ;
+display: inline-block;
+}
+
+
+
+.bordo1{display: inline-block;}
+
+#divs{display: inline-block;
+margin-right: 30px;
+margin-left: 30px;
+margin-bottom: 30px;}
